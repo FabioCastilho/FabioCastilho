@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, I'm Fabio Castilho! 👋
+
+🌱 Estou estudando JavaScript no momento
 
 <!--
 **FabioCastilho/FabioCastilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
