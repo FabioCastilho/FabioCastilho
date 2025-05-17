@@ -1,18 +1,27 @@
-### Hey, I'm Fabio Castilho! 👋
+# 👋 Olá! Eu sou o Castilho
 
-🌱 Estou estudando JavaScript no momento
+🎨 Designer   
+💻 Aprendendo Java com foco em desenvolvimento de aplicações  
+🎮 Criador de conteúdo e entusiasta do universo gamer
 
-<!--
-**FabioCastilho/FabioCastilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Tecnologias e Ferramentas
+- 💻 Java, IntelliJ IDEA
+- 🎨 Pacote Adobe
+- 📱 Gerenciamento de redes sociais e produção de conteúdo
 
-Here are some ideas to get you started:
+## 📈 Em andamento
+- Estudando Java do zero com foco em aplicações práticas
+- Desenvolvendo um sistema de simulação de troco com notas e moedas
+- Criando um app gamificado de bons hábitos (começando com o de beber água 💧)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Objetivos
+- Evoluir na área de desenvolvimento backend
+- Integrar programação com criatividade no dia a dia
+- Compartilhar aprendizados com a comunidade
+
+---
+
+📫 **Vamos conversar?**  
+Você me encontra por aqui:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com](https://www.linkedin.com/in/fabiofcastilho/))  
+
