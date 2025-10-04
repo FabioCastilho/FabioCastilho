@@ -1,28 +1,30 @@
 # 👋 Olá! Eu sou o Castilho
 
-🎨 Designer   
-💻 Aprendendo Java com foco em desenvolvimento de aplicações  
-🎮 Criador de conteúdo e entusiasta do universo gamer
+🎨 Designer & Criador de Conteúdo
+💻 Em transição para Desenvolvimento (Frontend + Backend)
+🎮 Entusiasta do universo gamer e tecnologia
 
 ## 🚀 Tecnologias e Ferramentas
-- 💻 Java, IntelliJ IDEA
-- 🎨 Pacote Adobe
-- 📱 Gerenciamento de redes sociais e produção de conteúdo
+
+* 🌐 **Frontend:** HTML, CSS, JavaScript
+* 💻 **Backend:** Java (estudando aplicações práticas com IntelliJ IDEA)
+* 🎨 **Design:** Figma, Adobe Photoshop, Illustrator
+* 📱 Experiência com gerenciamento de redes sociais e produção de conteúdo
 
 ## 📈 Em andamento
-- Estudando Java do zero com foco em aplicações práticas
-- Desenvolvendo um sistema de simulação de troco com notas e moedas
-- Criando um app gamificado de bons hábitos (começando com o de beber água 💧)
+
+* Criando projetos práticos em **HTML, CSS e JS** para reforçar fundamentos
+* Estudando **Java** com foco em aplicações de lógica e backend
+
 
 ## 🌱 Objetivos
-- Evoluir na área de desenvolvimento backend
-- Integrar programação com criatividade no dia a dia
-- Compartilhar aprendizados com a comunidade
+
+* Consolidar base sólida em **frontend e backend**
+* Integrar **programação** com **criatividade em design**
+* Compartilhar aprendizados e projetos com a comunidade
 
 ---
 
-📫 **Vamos conversar?**  
-Você me encontra por aqui:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fabiofcastilho/)
-
-
+📫 **Vamos conversar?**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/fabiofcastilho/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat\&logo=whatsapp)](https://wa.me/5531994976034)
